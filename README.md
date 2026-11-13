@@ -6,6 +6,12 @@ Customer Success specialist focused on customer journeys, processes and relation
 I work in CS Ops, Support and SaaS implementation, bringing together people, technology and solutions.
 Communicator and Computer Science student.
 
+## Tools
+
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
+![Jam](https://img.shields.io/badge/Jam.dev-8B5CF6?style=for-the-badge)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
 <details>
 <summary>Português</summary>
 
